@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{5E4676FD-096B-41AD-84D1-901FB7ABDFE2}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentGrades.nunitTests/GradeCalculaorTests.cs">
+    <Files>
+      <File FileName="StudentGrades/GradeCalculator.cs" Line="26" Column="1" />
+      <File FileName="StudentGrades.nunitTests/GradeCalculaorTests.cs" Line="18" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StudentGrades" expanded="True">
+            <Node name="StudentGrades" expanded="True" />
+            <Node name="StudentGrades.nunitTests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="GradeCalculaorTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="StudentGrades" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StudentGrades PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGrades", "StudentGrades\StudentGrades.csproj", "{5E4676FD-096B-41AD-84D1-901FB7ABDFE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGrades.nunitTests", "StudentGrades.nunitTests\StudentGrades.nunitTests.csproj", "{ADDC25BB-1138-45AA-B982-BDFC6DA2DA34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E4676FD-096B-41AD-84D1-901FB7ABDFE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4676FD-096B-41AD-84D1-901FB7ABDFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4676FD-096B-41AD-84D1-901FB7ABDFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4676FD-096B-41AD-84D1-901FB7ABDFE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADDC25BB-1138-45AA-B982-BDFC6DA2DA34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDC25BB-1138-45AA-B982-BDFC6DA2DA34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDC25BB-1138-45AA-B982-BDFC6DA2DA34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDC25BB-1138-45AA-B982-BDFC6DA2DA34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE7D66E6-85B4-4BB3-BDE1-D7A100EDF38F}
+	EndGlobalSection
+EndGlobal

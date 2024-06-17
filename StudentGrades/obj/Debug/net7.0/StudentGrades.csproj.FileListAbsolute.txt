@@ -1,0 +1,14 @@
+/Users/ruthvik/Desktop/StudentGrades/StudentGrades/bin/Debug/net7.0/StudentGrades
+/Users/ruthvik/Desktop/StudentGrades/StudentGrades/bin/Debug/net7.0/StudentGrades.deps.json
+/Users/ruthvik/Desktop/StudentGrades/StudentGrades/bin/Debug/net7.0/StudentGrades.runtimeconfig.json
+/Users/ruthvik/Desktop/StudentGrades/StudentGrades/bin/Debug/net7.0/StudentGrades.dll
+/Users/ruthvik/Desktop/StudentGrades/StudentGrades/bin/Debug/net7.0/StudentGrades.pdb
+/Users/ruthvik/Desktop/StudentGrades/StudentGrades/obj/Debug/net7.0/StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruthvik/Desktop/StudentGrades/StudentGrades/obj/Debug/net7.0/StudentGrades.AssemblyInfoInputs.cache
+/Users/ruthvik/Desktop/StudentGrades/StudentGrades/obj/Debug/net7.0/StudentGrades.AssemblyInfo.cs
+/Users/ruthvik/Desktop/StudentGrades/StudentGrades/obj/Debug/net7.0/StudentGrades.csproj.CoreCompileInputs.cache
+/Users/ruthvik/Desktop/StudentGrades/StudentGrades/obj/Debug/net7.0/StudentGrades.dll
+/Users/ruthvik/Desktop/StudentGrades/StudentGrades/obj/Debug/net7.0/refint/StudentGrades.dll
+/Users/ruthvik/Desktop/StudentGrades/StudentGrades/obj/Debug/net7.0/StudentGrades.pdb
+/Users/ruthvik/Desktop/StudentGrades/StudentGrades/obj/Debug/net7.0/StudentGrades.genruntimeconfig.cache
+/Users/ruthvik/Desktop/StudentGrades/StudentGrades/obj/Debug/net7.0/ref/StudentGrades.dll

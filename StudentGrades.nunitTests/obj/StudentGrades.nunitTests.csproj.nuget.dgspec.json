@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ruthvik/Desktop/StudentGrades/StudentGrades.nunitTests/StudentGrades.nunitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/ruthvik/Desktop/StudentGrades/StudentGrades.nunitTests/StudentGrades.nunitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ruthvik/Desktop/StudentGrades/StudentGrades.nunitTests/StudentGrades.nunitTests.csproj",
+        "projectName": "StudentGrades.nunitTests",
+        "projectPath": "/Users/ruthvik/Desktop/StudentGrades/StudentGrades.nunitTests/StudentGrades.nunitTests.csproj",
+        "packagesPath": "/Users/ruthvik/.nuget/packages/",
+        "outputPath": "/Users/ruthvik/Desktop/StudentGrades/StudentGrades.nunitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ruthvik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ruthvik/Desktop/StudentGrades/StudentGrades/StudentGrades.csproj": {
+                "projectPath": "/Users/ruthvik/Desktop/StudentGrades/StudentGrades/StudentGrades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.10.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "NUnit.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ruthvik/Desktop/StudentGrades/StudentGrades/StudentGrades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ruthvik/Desktop/StudentGrades/StudentGrades/StudentGrades.csproj",
+        "projectName": "StudentGrades",
+        "projectPath": "/Users/ruthvik/Desktop/StudentGrades/StudentGrades/StudentGrades.csproj",
+        "packagesPath": "/Users/ruthvik/.nuget/packages/",
+        "outputPath": "/Users/ruthvik/Desktop/StudentGrades/StudentGrades/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ruthvik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
